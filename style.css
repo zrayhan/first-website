@@ -1,0 +1,26 @@
+.red-color {
+    color: rgb(156, 142, 15);
+    font-weight: 300;
+}
+
+.heading-one {
+    background-color: -o-linear-gradient(rgb(2, 108, 247) black);
+    font-size: ;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+.link-button {
+    background-image: linear-gradient(orange tomato);
+}
+
+body {
+    border: 2px solid yellow;
+}
